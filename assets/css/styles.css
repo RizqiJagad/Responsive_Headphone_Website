@@ -290,6 +290,9 @@ img {
   color: var(--first-color);
 }
 
+.home__button{
+  justify-self: center;
+}
 
 /*=============== BUTTON ===============*/
 
