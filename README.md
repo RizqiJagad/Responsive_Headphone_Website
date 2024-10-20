@@ -12,6 +12,6 @@ HTML5 for semantic structure.
 CSS3 with custom animations and transitions.
 JavaScript for interactive elements and smooth scrolling effects.
 
-📸 ![preview img](/Responsive_Headphone_Website/preview.png)
+📸 ![preview png](/Responsive_Headphone_Website/preview.png)
 
 
