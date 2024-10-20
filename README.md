@@ -2,6 +2,7 @@
 
 Welcome to the **Responsive Headphone Website** project! This sleek, modern web design brings an immersive shopping experience to users across all devices. Built with attention to detail, the website features smooth animations, intuitive navigation, and a mobile-first approach for optimal performance on every screen size.
 
+
 ---
 
 ## 🌟 FEATURES
