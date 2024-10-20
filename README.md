@@ -14,3 +14,4 @@ JavaScript for interactive elements and smooth scrolling effects.
 
 📸 ![preview img](/Responsive_Headphone_Website/preview.png)
 
+
